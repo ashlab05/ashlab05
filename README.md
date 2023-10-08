@@ -1,8 +1,8 @@
-### Hi there 👋 I am Mohammed Ashlab. I just graduated from my high school.I really love to learn things about new technology and I am new to open source.
+### Hi there 👋 I am Mohammed Ashlab,integrated MTECH Computer Science Engineering VITC.I really love to learn things about new technology and I am new to open source.
 Please feel free to say anything about me and guide me.
 
-I am new to open source.
-I am learning python.
+Open Source Enthusiast.
+
 He/Him
 
 <!--
